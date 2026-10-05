@@ -1,0 +1,6 @@
+{
+  "name": "ApexMotiv — Car Specifications & Comparison Hub",
+  "description": "Explore an interactive automotive database with technical specifications, high-resolution galleries, side-by-side vehicle comparison, user reviews, and content management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
